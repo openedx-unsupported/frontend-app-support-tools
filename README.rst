@@ -2,6 +2,8 @@
 frontend-app-support-tools
 ##########################
 
+🛑🛑🛑 This repository is archived and no longer maintained or supported.  See https://github.com/openedx/public-engineering/issues/497 for more details. 🛑🛑🛑
+
 |Build Status| |Codecov| |license|
 
 *******
